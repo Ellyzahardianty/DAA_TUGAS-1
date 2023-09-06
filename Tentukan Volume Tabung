@@ -1,0 +1,14 @@
+•	Algoritma: 
+1.	Buatlah fungsi volume_tabung dengan parameter r dan t
+2.	Masukkan rumus dari volume tabung
+3.	Deklarasikan variabel jari-jari dan tinggi
+4.	Hitung volume tabung dengan rumus
+5.	Cetak hasil volume tabung
+
+•	Pseudocode:
+1.	def volume_tabung (r,t):
+2.	return 3.14*r*r*t
+3.	jari = 3
+4.	tinggi = 5
+5.	volume_tabung = 3.14*jari*jari*tinggi
+6.	Cetak volume tabung
