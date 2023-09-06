@@ -1,0 +1,17 @@
+•	Algoritma: 
+1.	Buat kondisi jika a>b maka variabel terbesar = a
+2.	Buat kondisi jika a<b maka variabel terbesar = b
+3.	Buat perulangan while, dengan kondisi jika terbesar % a = 0 dan terbesar % b = 0, maka buat variabel hasil = terbesar
+4.	Jika kondisi tidak terpenuhi, maka terbesar + 1 dan kembali mengulangi perulangan
+5.	Simpan variabel hasil
+6.	Isi variabel a dan b yaitu 3 dan 4
+7.	Cetak hasil dari fungsi kpk dengan parameter a dan b
+
+•	Pseudocode
+1.	fungsi kpk(a, b) 
+2.	If a>b: terbesar = a 
+3.	Else: terbesar = b 
+4.	While: if terbesar % a == 0 and terbesar % b == 0: hasil = terbesar; break 
+5.	Else: terbesar + 1 
+6.	Simpan hasil 
+7.	Cetak hasil
