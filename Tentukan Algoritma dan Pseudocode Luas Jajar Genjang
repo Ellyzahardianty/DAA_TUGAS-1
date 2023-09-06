@@ -1,0 +1,14 @@
+•	Algoritma: 
+1.	Buatlah fungsi luas jajar genjang dengan parameter a dan t
+2.	Masukkan rumus dari luas jajar genjang
+3.	Deklarasikan variabel alas dan tinggi
+6.	Hitung luas jajar genjang dengan rumus
+7.	Cetak hasil luas jajar genjang
+
+•	Pseudocode:
+1.	def luas_jajargenjang (a,t)
+2.	return 1/2*a*t
+3.	alas = 25
+4.	tinggi = 30
+5.	luas_jajargenjang = 1/2*alas*tinggi
+6.	Cetak hasil luas jajar genjang
