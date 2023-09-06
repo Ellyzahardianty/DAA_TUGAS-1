@@ -1,0 +1,15 @@
+•	Algoritma: 
+1.	Buatlah fungsi volume kerucut dengan parameter a dan t
+2.	Masukkan rumus dari volume kerucut
+3.	Deklarasikan variabel jari-jari dan tinggi
+4.	Hitung volume kerucut dengan rumus
+5.	Cetak hasil volume kerucut
+
+•	Pseudocode:
+1.	def volume_kerucut (r,t):
+2.	return 1/3*3.14*r*r*t
+3.	diameter = 5
+4.	jari = 2.5
+5.	tinggi = 4
+6.	volume_kerucut = 1/3*3.14*jari*jari*tinggi
+7.	Cetak Volume Kerucut
