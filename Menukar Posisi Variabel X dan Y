@@ -1,0 +1,17 @@
+•	Algoritma: 
+1.	Buat fungsi menukar dengan argumen x dan y 
+2.	Inisialisasi list dengan variabel piring dengan x, y, dan kosong 
+3.	Tukar nilai x dan y dengan menggunakan variabel sementara.
+4.	Cetak hasil pertukaran.
+
+•	Pseudocode:
+1.	fungsi menukar(x, y) piring = [x, y, ""]
+2.	x = “Manggis
+3.	y = “Pisang”
+4.	print("piring 1 =", x)
+5.	print("piring 2 =", y)
+6.	print("piring 3 = ")
+7.	Temp = x 
+8.	x = y
+9.	y = temp
+10.	Cetak hasil 
