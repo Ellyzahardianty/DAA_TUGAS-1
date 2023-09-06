@@ -1,0 +1,14 @@
+•	Algoritma: 
+1.	Buatlah fungsi luas segitiga dengan parameter a dan t
+2.	Masukkan rumus dari luas segiiga
+3.	Deklarasikan variabel alas dan tinggi
+4.	Hitung luas segitiga dengan rumus
+5.	Cetak hasil luas segitiga
+
+•	Pseudocode:
+1.	def luas_segitiga (a,t)
+2.	return 1/2*a*
+3.	alas = 25
+4.	tinggi = 30
+5.	luas_segitiga = 1/2*alas*tinggi
+6.	Cetak hasil luas segitiga
